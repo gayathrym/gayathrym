@@ -28,7 +28,9 @@ AI-powered SaaS Applications
 Clean, Minimal UI/UX Design
 
 📫 Contact
+
 Email: Gayathrymadathiljuly6@gmail.com
+
 LinkedIn:www.linkedin.com/in/gayathry-m-91a33632a
 <!--
 **gayathrym/gayathrym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
