@@ -1,10 +1,11 @@
 ## 👋 Hi, I'm Gayathry 
 About Me
-I’m a Computer Science student and aspiring full-stack developer with a solid foundation in core CS principles, software development, and problem-solving. I enjoy building clean, scalable, and user-focused web applications.
 
+I’m a Computer Science student and aspiring full-stack developer with a solid foundation in core CS principles, software development, and problem-solving. I enjoy building clean, scalable, and user-focused web applications.
 I’m currently focused on developing smart recommendation systems and full-stack SaaS applications that solve real-world problems.
 
 🚀 What I'm Working On
+
 NEXTPAGE – A personalized book recommendation web app
 
 Inventory Forecasting SaaS – A smart inventory visibility and forecasting system using AI
@@ -12,12 +13,14 @@ Inventory Forecasting SaaS – A smart inventory visibility and forecasting syst
 Improving backend API design and scalable system architecture
 
 🛠️ Tech Stack
+
 Languages: Python, JavaScript, C++
 Frontend: React, Tailwind CSS
 Backend: Node.js, Express, Python
 Tools: Git, VS Code, Cursor AI, Figma
 
 🎯 Interests
+
 Full-Stack Web Development
 
 AI-powered SaaS Applications
