@@ -14,10 +14,9 @@ Improving backend API design and scalable system architecture
 
 >Tech Stack
 
-Languages: Python, JavaScript, C++
+Languages: Python, JAVA, C++,SQL
 Frontend: React, Tailwind CSS
-Backend: Node.js, Express, Python
-Tools: Git, VS Code, Cursor AI, Figma
+Tools: Git, VS Code, Cursor AI
 
 > Interests
 
