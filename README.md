@@ -1,47 +1,30 @@
-## 👋 Hi, I'm Gayathry 
+👋 Hi, I'm Gayathry
 About Me
+I’m a Computer Science student and aspiring full-stack developer passionate about IoT innovation. My foundation in software engineering is complemented by experience building real-world sensor networks and intelligent hardware. I specialize in creating solutions that bridge hardware and software through the Internet of Things.
 
-I’m a Computer Science student and aspiring full-stack developer with a solid foundation in core CS principles, software development, and problem-solving. I enjoy building clean, scalable, and user-focused web applications.
-I’m currently focused on developing smart recommendation systems and full-stack SaaS applications that solve real-world problems.
+What I'm Working On
+IoT Multi-Sensor Comfort Index System:
+Advanced Arduino-based comfort measurement system integrating air quality, crowd detection, temperature, humidity, noise, and ride vibration. Features sensor fusion, data smoothing, and live OLED display—showcasing my strong focus on IoT, smart environments, and edge analytics.
 
-> What I'm Working On
+NEXTPAGE – Personalized book recommendation web app
 
-NEXTPAGE – A personalized book recommendation web app
+Inventory Forecasting SaaS – AI-powered demand planning
 
-Inventory Forecasting SaaS – A smart inventory visibility and forecasting system using AI
+Scalable backend API and system architecture enhancements
 
-Improving backend API design and scalable system architecture
-
->Tech Stack
-
-Languages: Python, JAVA, C++,SQL
+Tech Stack
+Languages: Python, JAVA, C++, SQL
 Frontend: React, Tailwind CSS
 Tools: Git, VS Code, Cursor AI
+IoT Tools: Arduino, embedded C/C++, MPU6050, DHT11, MQ135, ultrasonic sensors
 
-> Interests
+Interests
+IoT for smart automation, real-time sensor analytics, and environmental monitoring
 
-Full-Stack Web Development
+Full-stack web product development
 
-AI-powered SaaS Applications
+Minimal, insightful UI/UX
 
-Clean, Minimal UI/UX Design
-
-> Contact
-
+Contact
 Email: Gayathrymadathiljuly6@gmail.com
-
-LinkedIn:www.linkedin.com/in/gayathry-m-91a33632a
-<!--
-**gayathrym/gayathrym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: www.linkedin.com/in/gayathry-m-91a33632a
