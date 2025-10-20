@@ -1,10 +1,18 @@
 👋 Hi, I'm Gayathry
-About Me
-Computer Science student specializing in Computer Vision and IoT. Skilled in building sensor-driven solutions, edge devices, and vision-powered automation.
 
-Projects
-IoT Comfort Index Monitoring:
-Developed an Arduino-based system combining sensors for air quality, temperature, humidity, noise, crowd, and vibration. The device computes a real-time comfort index using sensor fusion and displays results on an OLED screen. It demonstrates expertise in environmental sensing, embedded systems, and edge analytics.
+
+
+About Me---
+Final-year Computer Science student at SASTRA University, specializing in AI and Computer Vision. 
+Passionate about building intelligent systems for real-time monitoring, automation, and secure applications. 
+Hands-on experience with object detection, recommendation systems, and machine learning pipelines.
+
+
+
+
+Projects---
+
+
 
 Object Detection System:
 Built a computer vision project that accurately detects and locates objects in images and videos. Uses deep learning models like YOLO and OpenCV for real-time processing. This system can be applied to automation, robotics, or smart surveillance.
@@ -12,18 +20,41 @@ Built a computer vision project that accurately detects and locates objects in i
 PPE Detection for Safety:
 Created a vision-based application that automatically detects whether people are wearing safety equipment (masks, helmets, vests) using advanced neural networks. Useful in workplace safety, compliance monitoring, and secure environments to reduce risks and improve policy enforcement.
 
-Tech Stack
-Languages: Python, C++, Java, SQL
-IoT/Embedded: Arduino, sensor libraries, embedded C/C++
-Computer Vision: OpenCV, deep learning frameworks
+NextPage – Personalized Book Recommendation Engine:
+AI-powered system suggesting books based on user preferences using TF-IDF. Optimized for fast, personalized recommendations via a Flask web app.
+
+
+
+
+
+
+Tech Stack / Skills---
+
+Programming Languages: Python, C++, Java, SQL
+
+
+AI & Computer Vision: PyTorch, TensorFlow, OpenCV, YOLO
+
+
+Web & Tools: Flask, Git, Jupyter, Notion
+
+
+Data Analysis: Pandas, NumPy
+
+
+Concepts: Machine Learning, Data Structures & Algorithms, Object Detection, Recommendation Systems
+
+
 Tools: Git, VS Code
 
-Interests
-IoT-based smart automation
+Interests---
+
+
+AI
 
 Computer vision for real-time monitoring
 
-Edge sensor integration
+
 
 Contact
 Email: [Gayathrymadathiljuly6@gmail.com]
